@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nuttanon211211
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning go
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in ML/NLP
+- 🌱 I’m currently learning new ideas
+- 💞️ I’m looking to collaborate on [[Interesting Projects]]
 - 📫 How to reach me [[email]]
 
 <!---
